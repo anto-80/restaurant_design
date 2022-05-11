@@ -1,7 +1,7 @@
 import React, {useState} from 'react';
 import {GiHamburgerMenu} from 'react-icons/gi';
 import {MdOutlineRestaurantMenu} from 'react-icons/md'
-import images from '../../constants/images';
+
 import './Navbar.css';
 
 const Navbar = () => {
@@ -10,7 +10,7 @@ const Navbar = () => {
     <nav className="app__navbar">
       <div className="app__navbar-name">
         <h1>Gastro</h1>
-        {/* <img src={images.gericht} alt="app__logo" /> */}
+      
       </div>
       <ul className="app__navbar-links">
         <li className="p__opensans"><a href="#home">Home</a></li>
