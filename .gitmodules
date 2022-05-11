@@ -1,0 +1,3 @@
+[submodule "src/assests/geritch_restaurant"]
+  path = src/assets/geritch_restaurant
+  url = https://github.com/anto-80/restaurant_design.git
