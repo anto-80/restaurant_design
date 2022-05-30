@@ -1,70 +1,92 @@
-# Getting Started with Create React App
+# GASTRO RESTAURANT UI/UX
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A responsive restaurant webpage made using html, css and react
 
-## Available Scripts
+## Competencies
 
-In the project directory, you can run:
+\#JF 3:1
 
-### `npm start`
+ * knows how to design software approaches and patterns to identify reusable solutions to commonly occuring problems.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+ * This project had me using functional components that could be passed as props to be reused with other components.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+\#JF 3:3
 
-### `npm test`
+ * Understands how to develop effective user interfaces
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+ * The layout of the webpage is a SPA, where everything is seamless and the navbar links go direct to the section.
 
-### `npm run build`
+\#JF 4:5
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+ * Is able to build, manage and deploy code into the relevant environment.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+ * The gastro restaurant webpage is hosted on netlify, with integration through github.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Table of contents
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+* [Introduction](#Introduction)
+* [Demo](#Demo)
+* [Technologies](#Technologies)
+* [Setup](#Setup)
+* [Features](#Features)
+* [Contact](#Contact)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Introduction
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Gastor restaurant app is an app using modern ui/ux design styles, that use the BEM model of css, as well as react for the interactivity. The style is inspired by modern design, with typography, colors and layouts.
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Demo
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<https://gastro-restaurant.netlify.app>
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+## Technologies.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+ * React - version 17.02.01
+ * Netlify
+ * Css BEM Model
 
-### Making a Progressive Web App
+ ---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+ ## Setup
 
-### Advanced Configuration
+ To run this project, install it locally using npm:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+ ```
+ $ cd ../Geritch_restaurant
+ $ npm install
+ $ npm start
+ ```
 
-### Deployment
+ ---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+ ## Features
 
-### `npm run build` fails to minify
+  * resposive design for all formats
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  * video
+  * vertical scroll design.
+
+To-do:
+
+ * add more fuctionality, like a backend database
+
+ * a fully enabled contact form
+
+ * map and location page
+
+ * reservations form.
+
+ ---
+
+## Contact
+<www.ant0-80.githubpages.io>
+
+
